@@ -1,6 +1,4 @@
 #Binaries
-TheLift/bin
-TheLift/obj
-TheLiftTest/bin
-TheLiftTest/obj
+*/bin
+*/obj
 .vs/

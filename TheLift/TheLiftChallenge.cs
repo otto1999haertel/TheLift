@@ -6,8 +6,6 @@
         //https://www.codewars.com/kata/58905bfa1decb981da00009e/train/csharp
         Queue<int> LiftQuee;
         List<int> stoppingFloors;
-        //Einsteig Floor und Einsteigindex
-        //List<Tuple<int,int>> passengersAlreadyTransported = new List<Tuple<int, int>>();
         int passengerTransported;
         int TotalPessengersCount;
         int iterationCycle;
